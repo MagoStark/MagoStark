@@ -1,0 +1,2 @@
+# MagoStark
+Mago’s Repository
